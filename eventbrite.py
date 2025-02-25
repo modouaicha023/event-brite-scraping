@@ -25,7 +25,7 @@ while len(eventsData) < 30:
     page += 1
 eventsData = sorted(eventsData)
 
-with open('past_events.csv', 'w', newline='', encoding='utf-8', errors='ignore') as file:
+with open('event-brite.csv', 'w', newline='', encoding='utf-8', errors='ignore') as file:
     writer = csv.writer(file)
     writer.writerow(['Name', 'Date'])
     writer.writerows(eventsData)
