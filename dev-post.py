@@ -22,9 +22,10 @@ wait.until(EC.presence_of_element_located((By.CLASS_NAME, "hackathon-tile")))
 # Scroller jusqu'à obtenir au moins 100 événements
 eventsData = set()
 scroll_attempts = 0
-MAX_SCROLLS = 30  # Éviter une boucle infinie si Devpost n'a pas autant d'événements
+MAX_SCROLLS = 50  # Augmenté pour mieux capturer les données
+previous_count = 0  # Suivi du nombre d'événements pour vérifier l'apparition de nouveaux
 
-while len(eventsData) < 100 and scroll_attempts < MAX_SCROLLS:
+while len(eventsData) < 200 and scroll_attempts < MAX_SCROLLS:
     # Récupérer la liste actuelle des événements
     html = driver.page_source
     soup = BeautifulSoup(html, 'lxml')
@@ -53,16 +54,24 @@ while len(eventsData) < 100 and scroll_attempts < MAX_SCROLLS:
 
     print(f"Nombre d'événements uniques actuellement récupérés : {len(eventsData)}")
 
-    # Faire défiler la page vers le bas pour charger plus d'événements
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    time.sleep(3)  # Attendre que de nouveaux événements chargent
+    # Vérifier si de nouveaux événements ont été ajoutés
+    if len(eventsData) == previous_count:
+        print("Aucun nouvel événement chargé, attente plus longue...")
+        time.sleep(5)  # Attendre plus longtemps si aucun nouveau hackathon n'apparaît
+
+    previous_count = len(eventsData)
+
+    # Scroller lentement en petites étapes
+    for i in range(3):  # Trois petits scrolls au lieu d'un seul grand
+        driver.execute_script("window.scrollBy(0, 500);")  # Scroll de 500px
+        time.sleep(2)  # Pause pour permettre le chargement
 
     scroll_attempts += 1  # Incrémenter le nombre de tentatives de scroll
 
 # Enregistrer les données dans un fichier CSV
 with open('hackathons-devpost.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    writer.writerow(['Nom', 'Date', "Prix", "Location", "Organisateur", "Statut", 'Thèmes','Nombres de Particpants'])
+    writer.writerow(['Nom', 'Date', "Prix", "Location", "Organisateur", "Statut", 'Thèmes','Nombres de Participants'])
     writer.writerows(eventsData)
 
 print(f"Nombre final d'événements uniques enregistrés : {len(eventsData)}")
