@@ -1,37 +1,109 @@
-Nom,Date,Prix,Location,Organisateur
-SAAI (Kids) - Hackathon on Art and AI,"Feb 08 - Apr 12, 2025","$1,000",Online,KAUST
-Contra Costa County Open Government Hackathon,"Feb 24 - Mar 01, 2025",1,CoCoTax HQ,CoCoTax
-IATA ONE Record Hackathon,"Feb 24 - 25, 2025","$12,000",The Convention Centre Dublin,iata
-"Nova Hacks III - (Feature Article, $29K Non-Cash Prize)","Feb 09 - Mar 08, 2025",4,Online,Nova Hacks
-NextAI Hack (Students Only) (Open-Ended),"Jan 01 - Mar 01, 2025",$600,Online,Bugfix & Chill
-FutureForge,"Feb 01 - 25, 2025",$200,Online,Future Science Scholar Organization
-Azure AI Developer Hackathon,"Feb 18 - Mar 28, 2025","$10,000",Online,Microsoft
-"Startup Program - Invitation only, participants from ZIBS ecosystem only","Oct 29, 2024 - May 20, 2025",$0,Hai Club,ZIBS
-Fire Resilience — Emergency Response & Disaster Recovery Hackathon,"Feb 21 - Mar 05, 2025","$10,000",Hotel Dena,KWAAI
-SANS AI Cybersecurity Hackathon,"Feb 15 - Mar 15, 2025","$10,000",Online,sans
-SpaceHack 2025: Space Data Challenge,"Dec 15, 2024 - May 01, 2025",$550,Online,Bishop Academy High School
-EnviroTech,"Feb 17 - Mar 08, 2025",3,Online,Sohit Patro
-Hackonomics 2025,"Feb 01 - Jun 15, 2025",$0,Online,hackonomics
-Tunisiaverse,"Jan 10 - Feb 28, 2025",$500,"Ariana, Tunisia",tech masters community
-HackEMinds 2025,"Feb 08 - Mar 08, 2025","$1,300",Online,MakEMinds
-IngeniumSTEM Winter Hacks 1.0,"Jan 17 - Mar 30, 2025",$0,Online,Ingenium STEM
-meshgong hackathon site,"Feb 07 - 28, 2025",$0,HEBRON JOURNAL  VARSITY COLLEGE.,BitBadges
-Building the Next-Gen Agentic App with GraphRAG & NVIDIA cuGraph,"Feb 10 - Mar 09, 2025","$29,750",Online,ArangoDB
-Global AI Agents League,"Feb 14 - Apr 08, 2025","$10,000",Online,Fetch.ai
-"MLX (Machine Learning Xtreme) Hackathon - Code, Train, Deploy!","Feb 01 - 26, 2025",$0,Online,MLX hackathon Team
-NextNiche,"Feb 23 - Mar 20, 2025","₹ 75,000","Army Institute of Technology, Pune","I&E Cell, AIT Pune"
-IEEE Micromouse Engineering Competition (MEC),"Jul 29, 2024 - Mar 08, 2025",$0,"New Jersey, USA",IEEE Region 1
-2024-25 Fall ESE Senior Design [Spring],"Jan 15 - May 10, 2025",$0,Moore building,university of pennsylvania
-CODEVOLT '25,"Feb 15 - Mar 04, 2025","₹ 35,000",MG Auditorium - VIT Chennai,Raptee.HV
-One Trillion Agents Hackathon,"Jan 31 - Mar 02, 2025","$115,500",Online,NEAR Protocol
-CodePi 2025.1,"Feb 16 - May 25, 2025",$0,Online,CodePi
-Hack_for_Carrier,"Jan 19 - Mar 31, 2025","₹ 1,000",Online,None
-Hackatopia,"Feb 10 - Apr 05, 2025",$0,Online,Youth Pioneers in STEM
-Dream Tank 2025,"Feb 14 - Mar 02, 2025",3,Online,Dream Team Engineering
-START Hack 2025,"Feb 19 - Mar 21, 2025","€10,631",OLMA Halls,START Global
-MEGA Hackathon 2025,"Mar 15 - 16, 2025","$285,610",Online,MegaHackathonLeague
-Build Your Own AI Chat Bot,"Jan 25 - Mar 14, 2025",$0,Online,OmVi
-Electroneum Hackathon 2025,"Jan 08 - Mar 07, 2025","$52,500",Online,Electroneum
-Digital Jam,"Feb 04 - 28, 2025","$15,000",Online,Online
-Predictive AI In Healthcare with FHIR®,"Dec 18, 2024 - Mar 02, 2025","$25,000",Online,Darena Solutions
-The Gated NFTs University Regional Hackathon,"Feb 15 - May 15, 2025","$3,225",Online,BitBadges
+Nom,Date,Prix,Location,Organisateur,Statut,Thèmes,Nombres de Particpants
+CodeXtreme 2025,"Feb 26 - Mar 01, 2025","$6,000",ALU Rwanda,CodeXtreme,Upcoming,Open Ended Social Good,353 participants
+SEIT Hackathon,"Mar 22 - 23, 2025","$CAD 1,000",Oshawa North Campus - CIR 102,Durham College,Upcoming,Beginner Friendly Social Good,64 participants
+Hack the Bronx 4,"May 26 - Jun 01, 2025","$1,300",Online,Horace Mann School,Upcoming,Beginner Friendly Open Ended Social Good,13 participants
+Hack The Spring'25,"Feb 27 - Mar 01, 2025","₹ 18,000",Gandhinagar,Government Engineering College,Upcoming,Beginner Friendly Machine Learning/AI Web,3 participants
+HackUNCP 2025,"Mar 22 - 23, 2025","$3,000","Pembroke, NC, USA",AI@UNCP,Upcoming,Beginner Friendly Machine Learning/AI,25 participants
+"MLX (Machine Learning Xtreme) Hackathon - Code, Train, Deploy!","Feb 01 - 26, 2025",$0,Online,MLX hackathon Team,1 day left,Beginner Friendly Databases Machine Learning/AI,246 participants
+Hibat Sustainability Challenge,"Feb 28, 2025",1,Khunaijer - Hibat Studio,Hibat,Upcoming,Lifehacks Open Ended Social Good,5 participants
+Scrapyard İstanbul,"Mar 15 - 16, 2025",$0,Konumumuz en kısa sürede açıklanacak!,Hack Club,Upcoming,Gaming Mobile Web,5 participants
+NextNiche,"Feb 23 - Mar 20, 2025","₹ 75,000","Army Institute of Technology, Pune","I&E Cell, AIT Pune",23 days left,Beginner Friendly Lifehacks Open Ended,15 participants
+Global AI Agents League,"Feb 14 - Apr 08, 2025","$10,000",Online,Fetch.ai,about 1 month left,Blockchain Fintech Machine Learning/AI,351 participants
+RevolutionUC,"Mar 01 - 02, 2025","$11,630",1819 Innovation Hub,ACM@UC,Upcoming,Beginner Friendly Open Ended,13 participants
+2025 Crack the Code Hackathon @ Concordia University Irvine,"Mar 22 - 23, 2025","$1,485",Grimm Hall @ Concordia University Irvine,Crack the Code,Upcoming,Machine Learning/AI Beginner Friendly Cybersecurity,3 participants
+BlossomHack 2025,"Mar 22 - 23, 2025","$4,725",Online,BlossomHacks,Upcoming,Beginner Friendly Cybersecurity Open Ended,123 participants
+"Startup Program - Invitation only, participants from ZIBS ecosystem only","Oct 29, 2024 - May 20, 2025",$0,Hai Club,ZIBS,3 months left,Beginner Friendly Low/No Code Open Ended,151 participants
+Tech Titans Hack Fest,"Apr 17 - 19, 2025","$199,396",Thunderbird High School,Tech Titans,Upcoming,Education Open Ended Web,13 participants
+Startup Week Buildathon,"Mar 01 - 02, 2025","$4,280",Verci Flatiron,Tech@NYU,Upcoming,Beginner Friendly Blockchain Machine Learning/AI,134 participants
+ImpactHack 2025,"Nov 22 - 23, 2025",£500,Glasgow,university of strathclyde,Upcoming,Beginner Friendly Machine Learning/AI Social Good,6 participants
+LG Hacks,"Mar 23, 2025","$74,700",Leigh High School,CodeCraft Academy,Upcoming,Beginner Friendly Design Web,13 participants
+ViTAL Hacks,"Mar 29, 2025",$0,Online,Northeastern Unversity,Upcoming,Beginner Friendly Health Social Good,41 participants
+The Gated NFTs University Regional Hackathon,"Feb 15 - May 15, 2025","$3,225",Online,BitBadges,3 months left,Blockchain E-commerce/Retail Web,42 participants
+Healthcare Hackathon with AI (H2AI),"Mar 14 - 16, 2025","$15,000","Fisher Colloquium, Hariri Building",Georgetown University H2AI,Upcoming,Health Machine Learning/AI Beginner Friendly,53 participants
+CUhackit 2025,"Mar 08, 2025",1,Clemson School of Computing,MLH,Upcoming,Beginner Friendly Social Good Open Ended,4 participants
+Hack Cupertino 2025,"Apr 12 - 13, 2025","$1,400",Quinlan Community Center,City of Cupertino,Upcoming,Beginner Friendly Social Good Design,5 participants
+AlphaByte 2.0,"Mar 01 - 02, 2025","₹ 45,000",Online,pccoe,Upcoming,Cybersecurity Machine Learning/AI Web,2 participants
+Electroneum Hackathon 2025,"Jan 08 - Mar 07, 2025","$52,500",Online,Electroneum,10 days left,Blockchain Beginner Friendly Open Ended,1120 participants
+Hoya Hacks 2026,"Jan 23 - 25, 2026","$4,500",Healey Family Student Center,Hoya Hacks,Upcoming,Beginner Friendly,4 participants
+IATA ONE Record Hackathon,"Feb 24 - 25, 2025","$12,000",The Convention Centre Dublin,iata,about 3 hours left,IoT Machine Learning/AI AR/VR,104 participants
+Hornet Hacks 2.0,"Feb 28 - Mar 07, 2025","$2,000",Carlsen Center,ACM at CSUS,Upcoming,Open Ended,109 participants
+Cal Poly Humboldt Hackathon for Social Good 2025,"Mar 08 - 09, 2025",3,"HGH, Cal Poly Humboldt",Cal Poly Humboldt Computer Science Club,Upcoming,Beginner Friendly Social Good,22 participants
+‎,"Jun 08 - 22, 2025",$100,Online,PANDA Organization,Upcoming,Productivity Beginner Friendly Social Good,76 participants
+Hack like W@CC,"Mar 02, 2025",1,College of Computing Room 016,Women at College of Computing @ GT,Upcoming,Design Education Social Good,11 participants
+Coexistence with AI: UofT AI Ethics Hackathon,"Mar 08, 2025",1,Bahen Centre for Information Technology,WiCS,Upcoming,Beginner Friendly Low/No Code Social Good,3 participants
+CodePi 2025.1,"Feb 16 - May 25, 2025",$0,Online,CodePi,3 months left,Education Low/No Code Social Good,41 participants
+ScaleU + PIA: AI Agents in Education,"Mar 11 - 13, 2025","$9,000",Memorial Union,ASU RealmSpark,Upcoming,Education Enterprise,10 participants
+iSTEM Hacks - Go from idea to launch in one week,"Mar 08 - 15, 2025",$500,Online,stevens insitute of technology,Upcoming,Beginner Friendly Design Social Good,31 participants
+(HATCH) HudsonAlpha Tech Challenge 2025,"Mar 01, 2025","$5,000",HudsonAlpha Institute for Biotechnology,HudsonAlpha Institute for Biotechnology,Upcoming,Cybersecurity Education Health,53 participants
+MEGA Hackathon 2025,"Mar 15 - 16, 2025","$285,610",Online,MegaHackathonLeague,Upcoming,Beginner Friendly Open Ended Social Good,974 participants
+Pike Labs App Challenge,"Mar 01 - May 30, 2025","$10,000",Online,Pike Labs,Upcoming,Machine Learning/AI Open Ended Social Good,25 participants
+Steast Hackathon 2025,"Mar 14 - 16, 2025",$0,Stetson East Hall,Stetson East,Upcoming,Beginner Friendly Social Good,7 participants
+2024-25 Fall ESE Senior Design [Spring],"Jan 15 - May 10, 2025",$0,Moore building,university of pennsylvania,2 months left,Education,55 participants
+Hilltop Hacks,"Mar 15 - 22, 2025",$500,Summit High School - Summit New Jersey,Summit High School Computer Science Club,Upcoming,Beginner Friendly Education Social Good,17 participants
+Fire Resilience — Emergency Response & Disaster Recovery Hackathon,"Feb 21 - Mar 05, 2025","$10,000",Hotel Dena,KWAAI,9 days left,Machine Learning/AI Social Good Databases,24 participants
+meshgong hackathon site,"Feb 07 - 28, 2025",$0,HEBRON JOURNAL  VARSITY COLLEGE.,BitBadges,3 days left,Communication Health Mobile,18 participants
+LaunchHacks IV,"Jun 08 - 09, 2025","$20,000",Online,LaunchHacks,Upcoming,Beginner Friendly Education Open Ended,482 participants
+FutureForge,"Feb 01 - 25, 2025",$200,Online,Future Science Scholar Organization,about 6 hours left,Beginner Friendly Health Social Good,131 participants
+IEEE Micromouse Engineering Competition (MEC),"Jul 29, 2024 - Mar 08, 2025",$0,"New Jersey, USA",IEEE Region 1,11 days left,Robotic Process Automation Beginner Friendly Design,115 participants
+City Tech Datathon,"Mar 28 - 29, 2025",1,Namm Building,DSC at City Tech,Upcoming,Beginner Friendly Health Machine Learning/AI,5 participants
+DaiBuild Hackathon,"Feb 28 - Mar 21, 2025",$750,Delta state University - Abraka,CodeUp Africa,Upcoming,Blockchain Fintech Social Good,21 participants
+Yash Kulkarni's Annual Hackathon,"Mar 15 - 21, 2025",$100,Online,me,Upcoming,Beginner Friendly DevOps Machine Learning/AI,82 participants
+The Midwest Block-a-Thon,"Mar 29 - 30, 2025","$3,750",University of Kansas Engineering Complex,KU Blockchain Institute,Upcoming,Beginner Friendly Blockchain Education,7 participants
+InnoHacks 2025 Spring,"Feb 28 - Mar 03, 2025",$220,Online,JFK Tech,Upcoming,Beginner Friendly Low/No Code Social Good,35 participants
+HackEMinds 2025,"Feb 08 - Mar 08, 2025","$1,300",Online,MakEMinds,11 days left,Beginner Friendly Productivity Social Good,87 participants
+CreateHER Fest: Hack for Social Good,"Feb 28 - Mar 08, 2025","$3,500",Online,CreateHER Fest,Upcoming,Social Good Machine Learning/AI Blockchain,122 participants
+Dream Tank 2025,"Feb 14 - Mar 02, 2025",3,Online,Dream Team Engineering,5 days left,Health Low/No Code,4 participants
+Azure AI Developer Hackathon,"Feb 18 - Mar 28, 2025","$10,000",Online,Microsoft,about 1 month left,Databases Machine Learning/AI Open Ended,920 participants
+Hack_for_Carrier,"Jan 19 - Mar 31, 2025","₹ 1,000",Online,None,about 1 month left,Education,114 participants
+Contra Costa County Open Government Hackathon,"Feb 24 - Mar 01, 2025",1,CoCoTax HQ,CoCoTax,5 days left,Beginner Friendly Social Good,2 participants
+IngeniumSTEM Winter Hacks 1.0,"Jan 17 - Mar 30, 2025",$0,Online,Ingenium STEM,about 1 month left,Beginner Friendly Low/No Code Social Good,242 participants
+CodeCatalyst 2024,"Mar 19 - Apr 10, 2025","$5,000",Tech Haven Conference Center,no,Upcoming,Health Machine Learning/AI,16 participants
+WiCHacks '25,"Mar 01 - 02, 2025",$275,RIT SHED,Women in Computing at RIT,Upcoming,Beginner Friendly Education Social Good,2 participants
+GNEC Hackathon 2025 Spring - Compete For UN-Affiliated/NGO Internships & Prizes,"Mar 12 - May 10, 2025","$10,000",Online,Global NGO Executive Committee,Upcoming,Beginner Friendly Social Good Web,191 participants
+HackUSF 2025,"Apr 05 - 06, 2025",1,USF– ENB II,GDSC @ USF,Upcoming,Machine Learning/AI Web Beginner Friendly,10 participants
+Hackonomics 2025,"Feb 01 - Jun 15, 2025",$0,Online,hackonomics,4 months left,Beginner Friendly Education Open Ended,123 participants
+BioHack UCalgary 2025,"Mar 01 - 03, 2025",$CAD 500,"Calgary, Canada",University of Calgary,Upcoming,Health Machine Learning/AI,5 participants
+Hack Knight Spring 2025,"Mar 07 - 09, 2025",8,Queens College Dining Hall,Code for All QC,Upcoming,Beginner Friendly Fintech Health,171 participants
+HackIllinois 2025,"Feb 28 - Mar 02, 2025","$4,000",Siebel Center for Computer Science,HackIllinois,Upcoming,Beginner Friendly Machine Learning/AI Open Ended,5 participants
+SANS AI Cybersecurity Hackathon,"Feb 15 - Mar 15, 2025","$10,000",Online,sans,18 days left,Cybersecurity Machine Learning/AI Education,466 participants
+RocketHacks 2025,"Mar 15 - 16, 2025",$800,University of Toledo -  Nitschke Hall,University of Toledo,Upcoming,Beginner Friendly Machine Learning/AI Education,8 participants
+Hackabyte's 2025 Spring Hackathon,"Mar 29 - 30, 2025","$1,000",Digipen Institute of Technology,Hackabyte,Upcoming,IoT Machine Learning/AI Productivity,8 participants
+EnviroTech,"Feb 17 - Mar 08, 2025",3,Online,Sohit Patro,12 days left,Beginner Friendly Design Machine Learning/AI,37 participants
+United Hacks V5,"Jul 11 - 13, 2025","$102,500",Online,Hack United,Upcoming,Beginner Friendly Open Ended Social Good,82 participants
+Umee Hackathon,"Mar 14 - 18, 2025",1,Online,Umee,Upcoming,Communication Mobile Web,17 participants
+NextStep Hacks 2025,"Apr 12 - 20, 2025","$419,600",Online,HackAlphaX,Upcoming,Beginner Friendly Social Good,93 participants
+MindTheGap Challenge,"Mar 15 - 21, 2025",$288,Online,westwood high school,Upcoming,Beginner Friendly Social Good,89 participants
+Hacktech by Caltech 2025,"Apr 25 - 27, 2025","$25,000",Caltech - Avery House,Caltech,Upcoming,Health Machine Learning/AI Social Good,24 participants
+Building the Next-Gen Agentic App with GraphRAG & NVIDIA cuGraph,"Feb 10 - Mar 09, 2025","$29,750",Online,ArangoDB,12 days left,Databases Machine Learning/AI Open Ended,1401 participants
+BISV Hacks,"Feb 28 - Mar 01, 2025",$300,BASIS Independent Silicon Valley,BASIS Independent Silicon Valley,Upcoming,Beginner Friendly Social Good Open Ended,19 participants
+HackSoS: Science of Science Hackathon at UC Berkeley,"Mar 08 - 09, 2025","$2,750","Berkeley, CA, USA",University of California Berkeley,Upcoming,Social Good Beginner Friendly Machine Learning/AI,15 participants
+NextAI Hack (Students Only) (Open-Ended),"Jan 01 - Mar 01, 2025",$600,Online,Bugfix & Chill,5 days left,Beginner Friendly Machine Learning/AI Open Ended,1269 participants
+George Hacks Innovation Hackathon,"Mar 01 - 02, 2025","$5,500",GWU Science and Engineering Hall,George Hacks Club,Upcoming,Beginner Friendly Education Health,3 participants
+Chinatown Hacks,"Mar 15 - 16, 2025","$10,000",USF - Downtown Building,University of San Francisco,Upcoming,Beginner Friendly Machine Learning/AI Social Good,5 participants
+Hackatopia,"Feb 10 - Apr 05, 2025",$0,Online,Youth Pioneers in STEM,about 1 month left,Beginner Friendly Open Ended Low/No Code,56 participants
+Build Your Own AI Chat Bot,"Jan 25 - Mar 14, 2025",$0,Online,OmVi,17 days left,Beginner Friendly Low/No Code Machine Learning/AI,606 participants
+Digital Jam,"Feb 04 - 28, 2025","$15,000",Online,Online,3 days left,Beginner Friendly Low/No Code Social Good,447 participants
+DAUST CAD Design Challenge (Mechathon),"Mar 03 - 10, 2025",$60,Online,Mechathon,Upcoming,Design,4 participants
+One Trillion Agents Hackathon,"Jan 31 - Mar 02, 2025","$115,500",Online,NEAR Protocol,6 days left,Blockchain Machine Learning/AI,1866 participants
+START Hack 2025,"Feb 19 - Mar 21, 2025","€10,631",OLMA Halls,START Global,24 days left,Beginner Friendly Enterprise Machine Learning/AI,23 participants
+BlazeHacks,"Jul 07 - 08, 2025","$50,000",IARE Campus,MLH,Upcoming,Education Gaming Social Good,5 participants
+StuyHacks XII,"Mar 29, 2025",1,Stuyvesant High School,StuyHacks,Upcoming,Beginner Friendly,15 participants
+PearAI Hackathon,"Apr 25 - 29, 2025","$10,000",Online,PearAI,Upcoming,Machine Learning/AI Productivity Web,674 participants
+CODEVOLT '25,"Feb 15 - Mar 04, 2025","₹ 35,000",MG Auditorium - VIT Chennai,Raptee.HV,7 days left,Beginner Friendly Enterprise Machine Learning/AI,61 participants
+"Nova Hacks III - (Feature Article, $29K Non-Cash Prize)","Feb 09 - Mar 08, 2025",4,Online,Nova Hacks,12 days left,Beginner Friendly Low/No Code Social Good,77 participants
+AI Hackfest,"Apr 11 - 13, 2025",$0,Online,Major League Hacking,Upcoming,Beginner Friendly Machine Learning/AI Open Ended,46 participants
+SpaceHack 2025: Space Data Challenge,"Dec 15, 2024 - May 01, 2025",$550,Online,Bishop Academy High School,2 months left,Machine Learning/AI Robotic Process Automation Social Good,173 participants
+HackVortex Codestorm 5,"Apr 05 - 19, 2025",$0,Online,HackVortex,Upcoming,Beginner Friendly Health Machine Learning/AI,127 participants
+UWB Hacks: Save The World!,"Apr 25 - 27, 2025",$0,Activities & Recreation Center (ARC),UWB ACM,Upcoming,Social Good Beginner Friendly Low/No Code,76 participants
+Hack for Humanity | 2026,"Feb 01 - 28, 2026",1,Online,Kuba Apps,Upcoming,Beginner Friendly Social Good,9 participants
+Our LUCKY Connect Hackathon,"Mar 27 - 30, 2025",$0,Online,LIFE and Beyond,Upcoming,Beginner Friendly Education Social Good,3 participants
+HenHacks 2025,"Mar 01 - 02, 2025",1,University of Delaware - Smith Hall,University of Delaware,Upcoming,Beginner Friendly Social Good,2 participants
+HackHPI 2025,"Mar 21 - 22, 2025",$0,HPI Engine,Hasso-Plattner-Institut,Upcoming,Beginner Friendly Health Machine Learning/AI,4 participants
+DevCon Hackathon,"Mar 01, 2025",3,Edmonton Unlimited,Edmonton Unlimited,Upcoming,Mobile Social Good Web,36 participants
+DeveloperWeek AI/ML 2025 Hackathon,"May 12 - 29, 2025","$12,500",South SF Conference Center + Online,DevNetwork,Upcoming,DevOps Enterprise Machine Learning/AI,6 participants
+Code4Hope Hackathon '25,"Jul 10, 2025","$168,160",Microsoft Office @ Times Square,Code4Hope,Upcoming,Beginner Friendly Machine Learning/AI Social Good,18 participants
+Predictive AI In Healthcare with FHIR®,"Dec 18, 2024 - Mar 02, 2025","$25,000",Online,Darena Solutions,5 days left,Health Machine Learning/AI,2348 participants
+SAAI (Kids) - Hackathon on Art and AI,"Feb 08 - Apr 12, 2025","$1,000",Online,KAUST,about 2 months left,Education Machine Learning/AI Social Good,38 participants
+2025 BioHack UCalgary,"Mar 08 - 09, 2025",$CAD 500,University of Calgary,University of Calgary,Upcoming,Beginner Friendly Health,27 participants
+CODE CRUNCH 305 Hackathon | Edition Spring 2025,"Mar 24 - 31, 2025",$0,Online,CODE CRUNCH,Upcoming,Fintech Health Machine Learning/AI,31 participants
+Tunisiaverse,"Jan 10 - Feb 28, 2025",$500,"Ariana, Tunisia",tech masters community,3 days left,Mobile Web,64 participants
